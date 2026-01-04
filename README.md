@@ -1,5 +1,5 @@
 # Gradient256
-After searching for a while, i couldn't find a tool to easily make and use color256 gradients in on my terminal (skill issue?). So i  created Gradient256. An fast, simple and reliable way to make gradients embedded as a library for convenience.
+After searching for a while, i couldn't find a tool to easily make and use color256 gradients in my terminal (skill issue?). So Gradient256 were born. An easy, fast, simple and reliable way to make gradients embedded as a library for convenience.
 
 # Installation
 For now, you can't instal Gradient256.
