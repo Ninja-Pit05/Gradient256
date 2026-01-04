@@ -28,7 +28,7 @@ bl-wh=Gradient256.grad_text((0,0,255),(255,255,255),'Easy color gradients. Blue 
 ```
 
 The resulting output should looks somewhat like this:
-[Image will be added soon]
+!(Color gradients applied to text)[.media/gradtextExample.png]
 
 # Development
 As it is, the code presented isn't perfect but does the job. In the future i plan to add diretional gradients (vertical, diagonal), support to ASCII art (a way to apply gradients to ASCII art easly), a better and smoother gradient algorithm and much more.
